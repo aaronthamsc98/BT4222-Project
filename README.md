@@ -10,8 +10,15 @@ Ong Sijie Grace
 Tham Shun Cong Aaron
 
 You Jing
+
 ## Installing Requirements:
-$pip install -r ./Requirements.txt
+
+````
+$ pip install -r ./Requirements.txt
+````
+
+**Note: If you are unable to install the pycld2 package, you can manually install it by downloading the package from here: **
+> https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycld2
 
 ## About the Project
 ### Problem Statement:
