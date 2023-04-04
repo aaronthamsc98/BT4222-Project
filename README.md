@@ -11,7 +11,7 @@ Tham Shun Cong Aaron
 
 You Jing
 
-## Installing Requirements:
+## Requirements:
 
 ````
 $ pip install -r ./Requirements.txt
