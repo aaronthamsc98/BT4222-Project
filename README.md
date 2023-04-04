@@ -1,4 +1,4 @@
-# BT4222-Project
+# BT4222 Mining Web Data for Business Insights - Project
 
 ## Group Members:
 Jerome Seah Jia Jun
