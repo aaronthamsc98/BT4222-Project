@@ -17,8 +17,17 @@ You Jing
 $ pip install -r ./Requirements.txt
 ````
 
-**Note: If you are unable to install the pycld2 package, you can manually install it by downloading the package from here: **
-> https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycld2
+If you are unable to pip install the pycld2 package, you can manually install it by downloading the package from here: 
+```
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pycld2
+```
+
+## Additional Notes
+If you wish to not re-run the BERTopic Model initiation, you can download the saved model here:
+
+```
+https://drive.google.com/file/d/1HVruOS50XSvRlrvDkHQ6taZDuEX0iCXY/view?usp=share_link
+```
 
 ## About the Project
 ### Problem Statement:
