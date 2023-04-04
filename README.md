@@ -10,6 +10,8 @@ Ong Sijie Grace
 Tham Shun Cong Aaron
 
 You Jing
+## Installing Requirements:
+$pip install -r ./Requirements.txt
 
 ## About the Project
 ### Problem Statement:
