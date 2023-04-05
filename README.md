@@ -1,6 +1,6 @@
 # BT4222 Mining Web Data for Business Insights - Project
 
-## Group Members:
+## Group 14 Members:
 Jerome Seah Jia Jun
 
 Lim Qin Da
