@@ -46,3 +46,20 @@ Our group seeks to (A) analyse clothing rental data to uncover insights on cloth
 
 ## Project Summary 
 After cleaning the data, the variables were analysed to conduct a preliminary investigation of their influence on fit. As clothing fit is subjective, beyond exploratory data analysis, sentiment analysis and topic modelling was conducted, utilising NLP techniques to value-add to the models using unstructured data from customer reviews. The team trained 5 different classification models, namely Logistic Regression, Random Forest, Gradient Boost, AdaBoost, and XGBoost. The F1-score was used as the main evaluation metric, coupled with elapsed time to account for the real-time usability of a fit recommender system. The final chosen model uses XGBoost (TF-IDF) with feature selection and has the best F1-score score of 0.602, with a reasonable runtime of 28.0 seconds. To further value-add in the business process and expand the project’s use case beyond online clothing rental onto other e-commerce apparel websites, the team also explored further extensions of using RCA to enhance the model. 
+
+## References
+1. Misra, Rishabh, Mengting Wan, and Julian McAuley. "Decomposing fit semantics for product size recommendation in metric spaces." In Proceedings of the 12th ACM Conference on Recommender Systems, pp. 422-426. 2018.
+
+2. Misra, Rishabh, and Jigyasa Grover. "Sculpting Data for ML: The first act of Machine Learning." ISBN 9798585463570 (2021).
+
+3. Bizjournals.com. (n.d.). Retrieved March 30, 2023, from https://www.bizjournals.com/bizwomen/news/latest-news/2018/12/half-of-shoppers-expect-to-return-clothes-bought.html?page=all
+
+4. Guardian News and Media. (2022, July 20). Past the parcel: How the end of free returns will change the way we shop | Sophie Benson. The Guardian. Retrieved March 30, 2023, from https://www.theguardian.com/commentisfree/2022/jul/20/end-free-returns-fast-fashion-online-shoppers
+
+5. Igini, M. (2023, February 17). 10 concerning Fast Fashion Waste Statistics. Earth.Org. Retrieved March 30, 2023, from https://earth.org/statistics-about-fast-fashion-waste/
+
+6. Online clothing rental market size & share analysis - industry research report - growth trends. Online Clothing Rental Market Size & Share Analysis - Industry Research Report - Growth Trends. (n.d.). Retrieved March 30, 2023, from https://www.mordorintelligence.com/industry-reports/online-clothing-rental-market
+
+7. Rent The Runway. What if my one-time rental doesn't fit? (n.d.). Retrieved March 30, 2023, from https://help.renttherunway.com/en_us/what-if-my-one-time-rental-doesnt-fit-BkXV2enVU#:~:text=If%20one%20or%20all%20of,unable%20to%20provide%20a%20replacement
+
+8. Technavio. (2022, April 25). Online clothing rental market size to grow by USD 3.00 bn: 44% of the growth to originate from APAC: Technavio. PR Newswire: press release distribution, targeting, monitoring and marketing. Retrieved March 30, 2023, from https://www.prnewswire.com/news-releases/online-clothing-rental-market-size-to-grow-by-usd-3-00-bn-44-of-the-growth-to-originate-from-apac-technavio-301531008.html
