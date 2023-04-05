@@ -28,7 +28,7 @@ If you wish to not re-run the BERTopic Model initiation, you can download the sa
 ```
 https://drive.google.com/file/d/1HVruOS50XSvRlrvDkHQ6taZDuEX0iCXY/view?usp=share_link
 ```
-
+The dataset is also zipped since Git Repo doesn't allow huge files!
 ## About the Project
 ### Problem Statement:
 Fast fashion is a serious environmental issue. The fashion industry contributes to nearly 10% of global carbon emissions (Earth.Org). More seriously, US$500 billion is lost annually due to under-wearing and failure to recycle clothing (Earth.Org). In particular, online shopping contributes to significant wastage. Many returned items are more often disposed of straight to landfills than resold, creating massive heaps of fast fashion wastage (The Guardian). 
